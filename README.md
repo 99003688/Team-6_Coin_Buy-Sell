@@ -4,6 +4,16 @@ E-Commerce application developed for performing Admin and Customer user role ope
 1. RESTfull web services: API's build using spring boot are used for handling all the back end operations which includes session management using encrypted JWT Tokens 
 2. Front End: User interfaces designed and developed using Angular utilising web services for handling appropriate user actions  
 
+# Contributors List
+
+Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
+-------------------------------|-----------|----------------|----------------|------------------------------
+`1) Mohnish khera`             | 99003692  |     | on bugging     | bugging issue is resolved    
+`2) Saujanya Tailang`          | 99003688  |  | on operation   | operation issue is resolved  
+`3) Ishan Rawat`         | 99003691  |       | error          | errors are resolved          
+`4) Sarvesh Anand`             | 99003687  |      | error          | errors are resolved          
+`5) Vishal J Roshan`             | 99003689  |       | on bugging     | bugging issue is resolved  
+
 #### Features available based on the user role
 * Coin Registration
   * Adding products
