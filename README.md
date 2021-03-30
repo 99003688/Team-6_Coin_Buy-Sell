@@ -1,8 +1,8 @@
 ### Coin Buy and Sell (SikkAass) Application (SpringBoot Web and Microservices Services)
 ---------
 E-Commerce application developed for performing Admin and Customer user role operations with respective user interfaces. Application is implemented in two parts:
-1. RESTfull web services: API's build using spring boot are used for handling all the back end operations which includes session management using encrypted JWT Tokens 
-2. Front End: User interfaces designed and developed using Angular utilising web services for handling appropriate user actions  
+1. RESTfull web services: API's build using spring boot are used for handling all the back end operations which includes session management. 
+2. Front End: User interfaces designed and developed using basic fromt end utilising web services for handling appropriate user actions  
 
 # Contributors List
 
